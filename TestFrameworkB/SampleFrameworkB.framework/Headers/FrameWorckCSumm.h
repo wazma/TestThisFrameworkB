@@ -6,11 +6,12 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <TestMediationFramework/TestMediationFramework.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface FrameWorckCSumm : NSObject
+@interface FrameWorckCSumm : MyBaseClass
+
 -(NSNumber *)finalSum;
 
 @end
