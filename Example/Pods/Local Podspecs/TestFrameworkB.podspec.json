@@ -1,0 +1,22 @@
+{
+  "name": "TestFrameworkB",
+  "version": "0.1.0",
+  "summary": "A short description of TestFrameworkB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Wazma Ali/TestFrameworkB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wazma Ali": "wazma.ali@consoliads.com"
+  },
+  "source": {
+    "git": "https://github.com/Wazma Ali/TestFrameworkB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestFrameworkB/Classes/**/*"
+}
