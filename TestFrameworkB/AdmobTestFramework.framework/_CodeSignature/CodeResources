@@ -4,56 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/FrameWorckCSumm.h</key>
+		<key>Headers/AdmobTestFramework.h</key>
 		<data>
-		NvIAJ/VK9DiwBCnaNZs0DI7DCKc=
-		</data>
-		<key>Headers/SampleFrameworkB.h</key>
-		<data>
-		CpRjuHW0czsNT7cydqAg/5Hqa+g=
+		+AEppzVJJshv+BMN4kaQyBMjRfQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		w4ejvGlWtV6rpxKXrNvEdahmb7o=
+		PYtjg0yjlJGkZitjW5PI4zW1YCc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		0OHnpfYi/WGVFh0vmAyIwJ5GgZk=
+		HFJL7FBWdnChS/tQ/S78nf1mR0I=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/FrameWorckCSumm.h</key>
+		<key>Headers/AdmobTestFramework.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NvIAJ/VK9DiwBCnaNZs0DI7DCKc=
-			</data>
 			<key>hash2</key>
 			<data>
-			IWhLEOTNxJFxbcsq+15AIRPnoCsm31FIUqvwLedPmXA=
-			</data>
-		</dict>
-		<key>Headers/SampleFrameworkB.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CpRjuHW0czsNT7cydqAg/5Hqa+g=
-			</data>
-			<key>hash2</key>
-			<data>
-			xDrmwykkpQqXRpQsQh5PW0dVpxh4j+eh86GvdBsndkY=
+			kt6mfkiArDHLBxoZcnA0HCD9A846lV2+A/uTwlXme7M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0OHnpfYi/WGVFh0vmAyIwJ5GgZk=
-			</data>
 			<key>hash2</key>
 			<data>
-			/lYtjGor1DWx87/Q371Cs5SF3UJCmdD989HhQIuATXM=
+			+CqTTkzf0IFP1ZKncG2JNziemGGAXLhue9Z0LcYDS/s=
 			</data>
 		</dict>
 	</dict>

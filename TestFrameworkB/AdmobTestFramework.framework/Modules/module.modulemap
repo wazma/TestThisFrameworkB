@@ -1,0 +1,6 @@
+framework module AdmobTestFramework {
+  umbrella header "AdmobTestFramework.h"
+
+  export *
+  module * { export * }
+}

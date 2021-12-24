@@ -1,6 +1,0 @@
-framework module SampleFrameworkB {
-  umbrella header "SampleFrameworkB.h"
-
-  export *
-  module * { export * }
-}
