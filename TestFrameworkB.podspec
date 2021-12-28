@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestFrameworkB'
-  s.version          = '0.9.0'
+  s.version          = '0.10.0'
   s.summary          = 'A short description of TestFrameworkB.'
 
 # This description is used to generate tags and improve search results.
@@ -33,8 +33,8 @@ Pod::Spec.new do |s|
   s.source_files = 'TestFrameworkB/Classes/**/*'
   
   s.vendored_frameworks = 'TestFrameworkB/AdmobTestFramework.framework'
-  s.pod_target_xcconfig =   {'OTHER_LDFLAGS' => ['-lObjC']}
-  s.libraries =  'z'
+  s.xcconfig = {"OTHER_LDFLAGS" => "-ObjC"}
+
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.static_framework=true
