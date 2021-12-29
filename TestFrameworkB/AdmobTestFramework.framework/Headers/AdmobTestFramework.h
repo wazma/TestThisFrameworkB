@@ -18,6 +18,8 @@ FOUNDATION_EXPORT const unsigned char AdmobTestFrameworkVersionString[];
 #import <AdmobTestFramework/CAAdmobStaticInterstitial.h>
 #import <AdmobTestFramework/CAAdmobRewarded.h>
 #import <AdmobTestFramework/CAAdmobAppOpenAd.h>
+#import <AdmobTestFramework/CAAdmobNativeAd.h>
+
 //#import <AdmobTestFramework/CAAdmobBannerAd.h>
 
 // In this header, you should import all the public headers of your framework using statements like #import <AdmobTestFramework/PublicHeader.h>
