@@ -18,7 +18,7 @@ FOUNDATION_EXPORT const unsigned char AdmobTestFrameworkVersionString[];
 #import <AdmobTestFramework/CAAdmobStaticInterstitial.h>
 #import <AdmobTestFramework/CAAdmobRewarded.h>
 #import <AdmobTestFramework/CAAdmobAppOpenAd.h>
-//#import <AdmobTestFramework/CAAdmobNativeAd.h>
+#import <AdmobTestFramework/CAAdmobNativeAd.h>
 
 //#import <AdmobTestFramework/CAAdmobBannerAd.h>
 
